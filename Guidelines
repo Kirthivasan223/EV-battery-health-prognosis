@@ -1,0 +1,7 @@
+## How to use the python notebooks
+
+First use the deep model comparison file for a clear understanding of why the final model was choosen. Feel free to add and compare your own models to this notebook.
+
+Then run the model for prognosis file to train and optimise the *random forest regressor(RFR)* according the datasets. Again feel free to add in your own datasets. 
+
+Finally, in the model integration file, refrence the model for prognosis and use it to make a battery health predition. Post this result to things speak clould or any other Iot cloud infrastructure, to get alerts. 
